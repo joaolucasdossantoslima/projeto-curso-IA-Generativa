@@ -1,0 +1,2 @@
+DDR5: Memória de alta performance incompatível com slots DDR4.
+Socket: O encaixe do processador na placa-mãe.
